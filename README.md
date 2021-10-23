@@ -1,0 +1,2 @@
+# latihan
+nyoba bikin repo
